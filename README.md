@@ -44,7 +44,7 @@ The rootkit implements a configurable logging system that can enable or disable 
 
 The codebase is divided into specific folders for each functionality, facilitating integration of new techniques and project maintainability.
 
-## 🛠️ Building And Deployment
+## Building And Deployment
 
 Change the settings you want in `src/config.c`. This includes your username and password that will be used to access the backdoor deployed by Whiteice.
 
