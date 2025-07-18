@@ -1,3 +1,9 @@
+<p align="center"><strong>ngl, I think u wasted too many syscalls here 🌟</strong></p>
+
+<p align="center">
+  <img src="resources/logo.png" width="600">
+</p>
+
 # Whiteice Rootkit
 
 Whiteice is a modular kernel rootkit designed for lab environments and virtual machine analysis. It incorporates advanced techniques for hiding processes, files, and communications using sophisticated hooking methods and direct kernel manipulation.
