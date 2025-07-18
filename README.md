@@ -21,6 +21,7 @@ Whiteice is a modular kernel rootkit designed for lab environments and virtual m
 
 - Process hiding via EPROCESS manipulation:  
   https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/manipulating-activeprocesslinks-to-unlink-processes-in-userland
+- SSDT and inline hooking techniques:
   https://www.blackhat.com/presentations/bh-usa-08/BH_US_08-Petroni-Skrien.pdf  
 - Advanced kernel rootkit analysis:  
   https://www.sans.org/white-papers/341/
