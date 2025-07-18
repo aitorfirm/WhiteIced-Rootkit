@@ -43,5 +43,3 @@ The rootkit implements a configurable logging system that can enable or disable 
 ## Modular Architecture
 
 The codebase is divided into specific folders for each functionality, facilitating integration of new techniques and project maintainability.
-
-<div class="tenor-gif-embed" data-postid="22026287" data-share-method="host" data-aspect-ratio="3.01887" data-width="100%"><a href="https://tenor.com/view/waves-gif-22026287">Waves Sticker</a>from <a href="https://tenor.com/search/waves-stickers">Waves Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
