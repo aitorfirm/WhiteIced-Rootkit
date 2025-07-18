@@ -31,6 +31,10 @@ Whiteice is a modular kernel rootkit designed for lab environments and virtual m
   https://www.blackhat.com/presentations/bh-usa-08/BH_US_08-Petroni-Skrien.pdf  
 - Advanced kernel rootkit analysis:  
   https://www.sans.org/white-papers/341/
+  
+<p align="center">
+  <img src="resources/boot.gif" width="400">
+</p>
 
 ## Logging and Debugging
 
