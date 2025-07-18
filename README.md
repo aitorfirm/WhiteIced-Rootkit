@@ -1,7 +1,7 @@
 <p align="center"><strong>ngl, I think u wasted too many syscalls here 🌟</strong></p>
 
 <p align="center">
-  <img src="resources/logon.png" width="400">
+  <img src="resources/logon.png" width="500">
 </p>
 
 # Whiteice Rootkit
