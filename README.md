@@ -32,8 +32,8 @@ Whiteice is a modular kernel rootkit designed for lab environments and virtual m
 - Advanced kernel rootkit analysis:  
   https://www.sans.org/white-papers/341/
   
-<p align="center">
-  <img src="resources/boot.gif" width="400">
+<p align="left">
+  <img src="resources/boot.gif" width="300">
 </p>
 
 ## Logging and Debugging
