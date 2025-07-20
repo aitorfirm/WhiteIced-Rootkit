@@ -22,7 +22,6 @@ void hide_module(void) {
     printk(KERN_INFO "[whiteice:mod_hider] Module hidden\n");
 }
 
-/* Restaura el módulo visible */
 void show_module(void) {
     if (!is_hidden) return;
 
